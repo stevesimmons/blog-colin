@@ -1,4 +1,4 @@
-baseURL = "http://colinsimmons.com/"
+baseURL = "http://colinsimmons.netlify.com/"
 languageCode = "en-us"
 title = "'Angry of Woodend'"
 theme = "hugo_theme_beg"
